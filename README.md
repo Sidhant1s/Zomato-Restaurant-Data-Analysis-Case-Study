@@ -8,7 +8,7 @@ This project presents a comprehensive, end-to-end data analytics case study exam
 
 
 ## Business Problem
-"How can stakeholders and new restaurant investors identify market gaps, pricing dynamics, and quality benchmarks across different locations and cuisines to make informed decisions in a competitive food and beverage landscape?"
+How do restaurant pricing tiers, service types, and quality benchmarks influence customer ratings and satisfaction, and what key economic thresholds must new market entrants navigate to succeed.
 
 ## Data Source & Integrity (ROCC Framework)
 * **Reliable:** Sourced from a clean, structured repository on Kaggle.
