@@ -3,6 +3,10 @@
 ## Project Overview
 This project presents a comprehensive, end-to-end data analytics case study examining Zomato restaurant data. The primary objective is to evaluate pricing dynamics, customer satisfaction drivers, and market segments to provide data-backed insights for stakeholders and investors in the food and beverage industry.
 
+## Data Source & Integrity
+* **Source:** Downloaded from Kaggle
+
+
 ## Business Problem
 "How can stakeholders and new restaurant investors identify market gaps, pricing dynamics, and quality benchmarks across different locations and cuisines to make informed decisions in a competitive food and beverage landscape?"
 
