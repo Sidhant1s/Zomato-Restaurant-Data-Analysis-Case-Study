@@ -32,7 +32,10 @@ The raw dataset underwent rigorous cleaning and transformation using **Excel Pow
 ## 3. Dashboard Visualization & Findings
 The final insights were compiled into an interactive **Tableau Public** dashboard visualizing pricing extremes, rating distributions, and establishment formats.
 
-[INSERT DASHBOARD SCREENSHOT HERE]
+<img width="2000" height="947" alt="image" src="https://github.com/user-attachments/assets/a1e09cb5-7442-4e37-99bb-85217049492e" />
+
+<img width="1985" height="991" alt="image" src="https://github.com/user-attachments/assets/501bbbc2-c173-4dfe-8626-8a6d23c2fd0b" />
+
 
 ## Conclusions & Business Recommendations
 * **Food Quality Drives Ratings:** The analysis reveals that customer ratings depend primarily on food quality and restaurant type (e.g., Fine Dining vs. Quick Bites) rather than price point or branding alone. Expensive venues offer superior physical space, but quality execution dictates satisfaction.
