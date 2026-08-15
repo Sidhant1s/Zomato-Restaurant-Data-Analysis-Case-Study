@@ -32,6 +32,8 @@ The raw dataset underwent rigorous cleaning and transformation using **Excel Pow
 ## 3. Dashboard Visualization & Findings
 The final insights were compiled into an interactive **Tableau Public** dashboard visualizing pricing extremes, rating distributions, and establishment formats.
 ![Tableau Dashboard Overview 1](Picture1.jpg)
+
+
 ![Tableau Dashboard Overview 2](Picture2.jpg)
 
 
